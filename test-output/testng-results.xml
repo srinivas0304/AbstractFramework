@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="26981" started-at="2022-06-28T10:11:04 IST" finished-at="2022-06-28T10:11:31 IST">
+    <groups>
+      <group name="Sanity">
+        <method signature="AccountCreationPageTest.verifyAccountPageTest()[pri:0, instance:com.mystore.testcases.AccountCreationPageTest@4cf4d528]" name="verifyAccountPageTest" class="com.mystore.testcases.AccountCreationPageTest"/>
+      </group> <!-- Sanity -->
+    </groups>
+    <test name="Test" duration-ms="26981" started-at="2022-06-28T10:11:04 IST" finished-at="2022-06-28T10:11:31 IST">
+      <class name="com.mystore.testcases.AccountCreationPageTest">
+        <test-method status="PASS" signature="beforeSuit()[pri:0, instance:com.mystore.testcases.AccountCreationPageTest@4cf4d528]" name="beforeSuit" is-config="true" duration-ms="205" started-at="2022-06-28T10:11:04 IST" finished-at="2022-06-28T10:11:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuit -->
+        <test-method status="PASS" signature="loadConfig()[pri:0, instance:com.mystore.testcases.AccountCreationPageTest@4cf4d528]" name="loadConfig" is-config="true" duration-ms="1" started-at="2022-06-28T10:11:04 IST" finished-at="2022-06-28T10:11:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadConfig -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.mystore.testcases.AccountCreationPageTest@4cf4d528]" name="launchBrowser" is-config="true" duration-ms="11359" started-at="2022-06-28T10:11:04 IST" finished-at="2022-06-28T10:11:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="verifyAccountPageTest()[pri:0, instance:com.mystore.testcases.AccountCreationPageTest@4cf4d528]" name="verifyAccountPageTest" duration-ms="11419" started-at="2022-06-28T10:11:15 IST" finished-at="2022-06-28T10:11:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAccountPageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.mystore.testcases.AccountCreationPageTest@4cf4d528]" name="tearDown" is-config="true" duration-ms="4169" started-at="2022-06-28T10:11:27 IST" finished-at="2022-06-28T10:11:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="afterSuit()[pri:0, instance:com.mystore.testcases.AccountCreationPageTest@4cf4d528]" name="afterSuit" is-config="true" duration-ms="575" started-at="2022-06-28T10:11:31 IST" finished-at="2022-06-28T10:11:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuit -->
+      </class> <!-- com.mystore.testcases.AccountCreationPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
